@@ -1,5 +1,4 @@
 # News App 🗞
-[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/AkshayChordiya//blob/master/LICENSE)
 
 News App is a simple news app 🗞️ which uses [NewsAPI](https://newsapi.org/) to fetch top news headlines from the API. The main aim of this app is to be a leading example of how to build Modern Android applications for all Android Developers
 
@@ -91,30 +90,5 @@ The architecture components are highly testable. Following table shows how to te
 | WebService | Instrumented |    MockWebServer   |
 
 
-## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for contributions.
-
-## License
-
-    The MIT License (MIT)
-    
-    Copyright (c) 2017 Akshay Chordiya
-    
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+$$-- This Project is made and uploaded by ADITYA JASRAI --$$
